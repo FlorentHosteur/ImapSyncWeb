@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IMAPSyncWeb.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="imapsynchost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">httpr.exchange-hebegement.com</Value>
+    </Setting>
+    <Setting Name="imapsyncroot" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="imapsyncpass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">gth31su8</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
